@@ -1,1 +1,1 @@
-# EducationLoan JDbc
+# EducationLoan JDBC
